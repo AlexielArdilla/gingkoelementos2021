@@ -1,7 +1,12 @@
 ## Página de Ginkgo Elementos de Yoga.
 
+Ecommerce de elementos para yoga:
 
-### Link para verla en acción (No terminada aún, falta bastante): 
+![imagen de site](app1.jpg)
+
+![imagen de site](app2.jpg)
+
+### Link para verla en acción 
 #### https://ginkgoelementos.online/
 
 
