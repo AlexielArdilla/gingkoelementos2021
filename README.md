@@ -6,7 +6,7 @@ Ecommerce de elementos para yoga:
 
 ![imagen de site](app2.jpg)
 
-### Link para verla en acción 
-#### https://ginkgoelementos.shop/
+## Link para verla en acción 
+### https://ginkgoelementos.shop/
 
 
